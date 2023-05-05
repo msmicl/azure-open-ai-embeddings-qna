@@ -431,8 +431,8 @@
               "image": "[variables('ContainerImageName')]",
               "resources": {
                 "requests": {
-                  "cpu": 1,
-                  "memoryInGb": 1.5
+                  "cpu": 4,
+                  "memoryInGb": 16
                 }
               },
               "environmentVariables": [
