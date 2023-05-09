@@ -40,11 +40,6 @@
       "type": "string",
       "defaultValue": "B3",
       "allowedValues": [
-        "F1",
-        "D1",
-        "B1",
-        "B2",
-        "B3",
         "S1",
         "S2",
         "S3",
